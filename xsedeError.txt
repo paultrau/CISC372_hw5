@@ -1,0 +1,13 @@
+Script started on 2021-05-06 21:39:58-04:00
+]0;paultrau@br011:~/CISC372_hw5[paultrau@r004 CISC372_hw5]$ make imagePt
+cc imagePt.c -o imagePt -lpthread 
+/tmp/ccSEGJde.o: In function `stbi__ldr_to_hdr':
+imagePt.c:(.text+0x2866): undefined reference to `pow'
+/tmp/ccSEGJde.o: In function `stbi__hdr_to_ldr':
+imagePt.c:(.text+0x2a2a): undefined reference to `pow'
+collect2: error: ld returned 1 exit status
+make: *** [makefile:7: imagePt] Error 1
+]0;paultrau@br011:~/CISC372_hw5[paultrau@r004 CISC372_hw5]$ exit
+exit
+
+Script done on 2021-05-06 21:40:07-04:00

@@ -1,0 +1,8 @@
+Script started on 2021-05-06 21:38:36-04:00
+]0;paultrau@br011:~/CISC372_hw5[paultrau@r004 CISC372_hw5]$ ./imageOmp pic4.jpg emboss
+Took -1616030133 seconds
+Took 8 seconds
+]0;paultrau@br011:~/CISC372_hw5[paultrau@r004 CISC372_hw5]$ exit
+exit
+
+Script done on 2021-05-06 21:38:57-04:00
